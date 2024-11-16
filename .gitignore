@@ -1,0 +1,8 @@
+assets/external/
+.web
+__pycache__/
+*.py[cod]
+*.db
+venv
+.env
+.isort.cfg
